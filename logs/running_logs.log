@@ -9,3 +9,22 @@
 [2024-01-17 22:08:12,800: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
 
 x==========x]
+[2024-01-18 00:26:25,227: INFO: main: *******************]
+[2024-01-18 00:26:25,227: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-01-18 00:26:25,229: INFO: common: yaml file: C:\Users\17642\Desktop\kidney-classification-project\config\config.yaml loaded successfully]
+[2024-01-18 00:26:25,230: INFO: common: yaml file: C:\Users\17642\Desktop\kidney-classification-project\params.yaml loaded successfully]
+[2024-01-18 00:26:25,231: INFO: common: created directory at: artifacts]
+[2024-01-18 00:26:25,232: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-01-18 00:26:25,523: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-01-18 00:26:25,726: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-01-18 00:26:25,727: INFO: main: *******************]
+[2024-01-18 00:26:25,728: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-01-18 00:26:25,729: INFO: common: yaml file: C:\Users\17642\Desktop\kidney-classification-project\config\config.yaml loaded successfully]
+[2024-01-18 00:26:25,731: INFO: common: yaml file: C:\Users\17642\Desktop\kidney-classification-project\params.yaml loaded successfully]
+[2024-01-18 00:26:25,733: INFO: common: created directory at: artifacts]
+[2024-01-18 00:26:25,734: INFO: common: created directory at: artifacts\training]
+[2024-01-18 00:27:03,886: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
